@@ -960,7 +960,7 @@ button.btn1 {
 }
 button.btn1:hover{
     background: none;
-    border: solid 1px #ef543b;
+    border: solid 1px #ef543b; <!--ef543b是橘红色-->
     color:#ef543b;
 }
 .footer-top h3 {
